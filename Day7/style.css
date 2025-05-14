@@ -1,0 +1,25 @@
+h1 {
+    color: green;
+}
+button {
+    background-color: green;
+    color: white;
+}
+p {
+    color: rgb(243, 7, 149);
+}
+#myId {
+    color: seagreen;
+}
+.myClass {
+    color: red;
+}
+h3 {
+    color: purple;
+}
+#box {
+    background-color: blue;
+}
+.heading {
+    color: red;
+}
