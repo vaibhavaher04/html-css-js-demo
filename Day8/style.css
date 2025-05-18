@@ -1,0 +1,64 @@
+* {
+    font-family: 'Times New Roman';
+}
+
+#paragraph {
+    text-align: right; /* Align text to the right */
+    text-decoration: red dotted underline; /* Underline with red dotted line */
+    font-weight: bold; /* Make text bold */
+    font-size: 20px; /* Set font size to 20px */
+    font-family: 'Courier New', Courier, monospace; /* Use monospace font */
+    line-height: normal; /* Set line height to normal */
+}
+
+#paragraph2 {
+    text-decoration: pink double underline; /* Underline with pink double line */
+}
+
+#paragraph3 {
+    text-transform: capitalize;
+    text-decoration: blue wavy underline; /* Underline with blue wavy line */
+}
+
+#paragraph4 {
+    text-indent: 50px; /* Indent text by 50px */
+    text-decoration: green solid underline; /* Underline with green solid line */
+}
+
+#paragraph5 {
+    text-shadow: 2px 2px 5px red; /* Add red shadow to text */
+}
+
+#paragraph6 {
+   font-weight: 700;
+}
+
+#paragraph7 {
+    font-style: italic; /* Italicize text */
+}
+
+#paragraph8 {
+    font-family: Arial;
+}
+
+#paragraph9 {
+    font-size: 20px; /* Set font size to 30px */
+}
+
+#paragraph10 {
+    line-height: 2;
+}
+
+#heading {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
+
